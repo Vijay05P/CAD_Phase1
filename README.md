@@ -1,1 +1,1 @@
-Image recognition with IBN cloud visual recognition
+Image_recognition_with_IBN_cloud_visual_recognition
